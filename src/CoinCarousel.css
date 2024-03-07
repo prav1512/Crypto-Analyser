@@ -1,0 +1,51 @@
+/* CoinCarousel.css */
+
+/* Container for the entire carousel */
+.coin-carousel {
+    width: 100%; /* Adjust as needed */
+    max-width: 800px; /* Set a maximum width for the carousel */
+    margin: 0 auto; /* Center the carousel horizontally */
+  }
+  
+  /* Individual coin card */
+  /* CoinCarousel.css */
+
+/* Individual coin card */
+/* CoinCarousel.css */
+
+/* Individual coin card */
+.coin-card {
+    width: 200px; /* Adjust the width as needed */
+    height: 200px; /* Adjust the height as needed */
+    padding: 10px; /* Reduce padding to decrease space */
+    margin: 0 10px; /* Add horizontal margin between cards */
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Style for coin images */
+  .coin-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  
+  
+  /* Additional styling for card content (adjust as needed) */
+  .coin-card h3 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .coin-card p {
+    font-size: 14px;
+    color: #555;
+  }
+  
