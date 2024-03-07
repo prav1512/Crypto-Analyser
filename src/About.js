@@ -10,7 +10,7 @@ function About(){
            many existing ideas from the cryptography community. Over the course of bitcoin's history, it has undergone rapid growth 
            to become a significant store of value both 
         on- and offline. From the mid-2010s, some businesses began accepting bitcoin in addition to traditional currencies</p>
-        <img src=""></img>
+        
      </>
   );
 }
