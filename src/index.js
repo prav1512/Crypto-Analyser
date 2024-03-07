@@ -18,7 +18,7 @@ import About from "./About.js";
 import Team from "./Team.js";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  // <React.StrictMode>
+  <React.StrictMode>
   <Provider store={store}>
    <>
     {/* <App />
@@ -40,9 +40,11 @@ root.render(
     <C1 /> */}
    
    {/* <F1 /> */}
-  {/* </React.StrictMode> */}
-  </>
-  </Provider>
+   </>
+   </Provider>
+  </React.StrictMode>
+  
+ 
 );
 
 // If you want to start measuring performance in your app, pass a function
